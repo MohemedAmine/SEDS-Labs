@@ -55,8 +55,7 @@ Each lab notebook focuses on a specific aspect of **software engineering** and *
 
 **Mohamed Amine**  
 🎓 *Software Engineering for Data Science — ESI Sidi Bel Abbès*  
-📧 Contact: [your_email@example.com]  
-🌍 GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
+📧 Contact: mohamedamineouledsaid10@gmail.com
 
 ---
 
