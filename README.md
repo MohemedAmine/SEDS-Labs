@@ -1,79 +1,64 @@
-# 🧪 SEDS Labs – Data Science & Python Projects
+# 🚀 SEDS Labs  
+### *Software Engineering & Data Science Practical Notebooks*
 
-This repository contains a series of Jupyter notebooks and practical labs designed to progressively build skills in **Python programming**, **data processing**, **data visualization**, and **web application development** using **FastAPI** and **Streamlit**.
-
----
-
-## 📘 Lab Overview
-
-### 🧩 Lab 2 – Getting Started with Python & Jupyter Notebook
-An introduction to Python basics, variables, loops, functions, and the Jupyter environment.
+Welcome to **SEDS-Labs** — a collection of Jupyter notebooks designed to strengthen your Python programming and data science skills through hands-on labs.
 
 ---
 
-### ⚙️ Lab 3 – Advanced Concepts for Python Software Engineering: Modularity, Readability, and Refactoring
-Focuses on best practices in writing clean, modular, and maintainable Python code.
+## 🧭 Table of Contents
+- [📘 Overview](#-overview)
+- [📚 Lab Notebooks](#-lab-notebooks)
+- [🧰 Tools & Libraries](#-tools--libraries)
+- [🗂️ Repository Structure](#️-repository-structure)
+- [👨‍💻 Author](#-author)
 
 ---
 
-### 🧪 Lab 4 – Advanced Concepts for Python Software Engineering: Unit Testing, Git, and GitHub
-Introduces unit testing with `unittest` and `pytest`, plus version control with Git and GitHub collaboration workflows.
+## 📘 Overview
+Each lab notebook focuses on a specific aspect of **software engineering** and **data science** — from mastering Python fundamentals to building APIs and data dashboards.
 
 ---
 
-### 📊 Lab 5 – Data Processing & Cleaning for Data Science: Data Ingestion and Wrangling with Pandas
-Teaches how to load, clean, and manipulate datasets efficiently using the Pandas library.
+## 📚 Lab Notebooks
+
+| # | Title | Description |
+|---|-------|-------------|
+| **Lab 2** | 🐍 *Getting Started with Python & Jupyter Notebook* | Introduction to Python syntax, data types, functions, and the Jupyter environment. |
+| **Lab 3** | ⚙️ *Advanced Concepts for Python Software Engineering: Modularity, Readability, and Refactoring* | Writing clean, modular, and maintainable code using Python best practices. |
+| **Lab 4** | 🧪 *Advanced Concepts for Python Software Engineering: Unit Testing, Git, and GitHub* | Learn how to test, version, and collaborate effectively with Git and GitHub. |
+| **Lab 5** | 🧹 *Data Processing & Cleaning for Data Science: Data Ingestion and Wrangling with Pandas* | Load, clean, and manipulate structured datasets using Pandas. |
+| **Lab 6** | 🌐 *Data Wrangling Documents and Web Scraping* | Collect and process information from HTML pages, documents, and web sources. |
+| **Lab 7** | 📊 *Exploratory Data Analysis & Visualization – Going Deeper* | Advanced EDA techniques and visual storytelling with Matplotlib and Seaborn. |
+| **Lab 8** | 📉 *Statistics for Data Science* | Core statistical analysis for data interpretation and decision-making. |
+| **Lab 9** | ⚡ *FastAPI* | Build and document RESTful APIs using FastAPI. |
+| **Lab 10** | 🖥️ *Streamlit* | Develop interactive web apps and dashboards for data visualization. |
 
 ---
 
-### 🌐 Lab 6 – Data Processing & Cleaning for Data Science: Data Wrangling Documents and Web Scraping
-Covers how to extract and process data from structured and unstructured sources, including HTML pages and documents.
+## 🧰 Tools & Libraries
 
----
+> Main technologies used throughout the labs:
 
-### 📈 Lab 7 – Data Processing & Cleaning for Data Science: Exploratory Data Analysis and Visualization – Going Deeper
-Focuses on exploratory data analysis (EDA) with advanced visualization techniques using Matplotlib and Seaborn.
-
----
-
-### 📉 Lab 8 – Data Processing & Cleaning for Data Science: Statistics for Data Science
-Introduces key statistical concepts and their applications in data analysis.
-
----
-
-### ⚡ Lab 9 – FastAPI
-Builds a RESTful web API using **FastAPI**, including endpoints, request handling, and JSON serialization.
-
----
-
-### 🖥️ Lab 10 – Streamlit
-Develops an interactive data-driven web application using **Streamlit**, integrating visualizations and user inputs.
-
----
-
-## 📂 Repository Structure
-
-SEDS-Labs/
-│
-├── data/ # Datasets used in the labs
-├── figures/ # Images and visualizations generated
-├── my_fast_API_project/ # FastAPI project folder
-├── SEDS_Lab2.ipynb
-├── SEDS_Lab3.ipynb
-├── SEDS_Lab4.ipynb
-├── SEDS_Lab5.ipynb
-├── SEDS_Lab6.ipynb
-├── SEDS_Lab7.ipynb
-├── SEDS_Lab8.ipynb
-└── README.md
+- 🐍 **Python 3.x**
+- 📓 **Jupyter Notebook / JupyterLab**
+- 📊 **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**
+- 🤖 **Scikit-learn**
+- 🌐 **BeautifulSoup**, **Requests**
+- ⚡ **FastAPI**
+- 🖥️ **Streamlit**
+- 🧪 **pytest**, **unittest**
+- 🧭 **Git & GitHub**
 
 ---
 
 ## 👨‍💻 Author
-**Mohamed amine OULED SAID**  
-Course: *SEDS Labs*  
-Institution: *ESI Sidi Bel Abbès*  
+
+**Mohamed Amine**  
+🎓 *Software Engineering for Data Science — ESI Sidi Bel Abbès*  
+📧 Contact: [your_email@example.com]  
+🌍 GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
 
 ---
 
-✅ *To get started, open any lab notebook (`.ipynb`) and follow the instructions inside.*
+⭐ *If you find this repository useful, consider giving it a star!*
+
