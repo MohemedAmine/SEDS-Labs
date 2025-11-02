@@ -53,9 +53,14 @@ Each lab notebook focuses on a specific aspect of **software engineering** and *
 
 ## 👨‍💻 Author
 
-**Mohamed Amine**  
+**Mohamed amine OULAD SAID**  
 🎓 *Software Engineering for Data Science — ESI Sidi Bel Abbès*  
 📧 Contact: mohamedamineouledsaid10@gmail.com
+
+---
+
+## 🧾 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
